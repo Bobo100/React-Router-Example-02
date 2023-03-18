@@ -10,7 +10,7 @@ export const Home = () => {
 
             <Link to="/about">About</Link>
             <Link to="/sdfsdiof">前往404頁面</Link>
-            <a href="https://react-router-hazel.vercel.app/">返回學習react-router</a>
+            <a href="https://react-router-hazel.vercel.app/RouterDynamic">返回學習react-router</a>
         </div>
     );
 };
